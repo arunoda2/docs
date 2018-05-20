@@ -18,6 +18,8 @@ export default withDoc({
   editUrl: 'pages/docs/getting-started/five-minute-guide-to-now.js',
 })(markdown(components)`
 
+[EDITED]
+
 With Now's help, you can deploy and publish any kind of web application (or service) in
 under five minutes.
 
